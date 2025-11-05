@@ -1,0 +1,167 @@
+{
+  "5": {
+    "name": "ANTIOQUIA",
+    "lat": 6.24,
+    "lon": -75.58
+  },
+  "8": {
+    "name": "ATLÁNTICO",
+    "lat": 10.96,
+    "lon": -74.8
+  },
+  "11": {
+    "name": "BOGOTÁ, D.C.",
+    "lat": 4.71,
+    "lon": -74.07
+  },
+  "13": {
+    "name": "BOLÍVAR",
+    "lat": 10.4,
+    "lon": -75.5
+  },
+  "15": {
+    "name": "BOYACÁ",
+    "lat": 5.54,
+    "lon": -73.37
+  },
+  "17": {
+    "name": "CALDAS",
+    "lat": 5.07,
+    "lon": -75.52
+  },
+  "18": {
+    "name": "CAQUETÁ",
+    "lat": 1.61,
+    "lon": -75.61
+  },
+  "19": {
+    "name": "CAUCA",
+    "lat": 2.44,
+    "lon": -76.61
+  },
+  "20": {
+    "name": "CESAR",
+    "lat": 10.48,
+    "lon": -73.25
+  },
+  "23": {
+    "name": "CÓRDOBA",
+    "lat": 8.75,
+    "lon": -75.88
+  },
+  "25": {
+    "name": "CUNDINAMARCA",
+    "lat": 4.9,
+    "lon": -74.3
+  },
+  "27": {
+    "name": "CHOCÓ",
+    "lat": 5.69,
+    "lon": -76.66
+  },
+  "41": {
+    "name": "HUILA",
+    "lat": 2.94,
+    "lon": -75.29
+  },
+  "44": {
+    "name": "LA GUAJIRA",
+    "lat": 11.54,
+    "lon": -72.91
+  },
+  "47": {
+    "name": "MAGDALENA",
+    "lat": 11.24,
+    "lon": -74.21
+  },
+  "50": {
+    "name": "META",
+    "lat": 4.15,
+    "lon": -73.64
+  },
+  "52": {
+    "name": "NARIÑO",
+    "lat": 1.21,
+    "lon": -77.28
+  },
+  "54": {
+    "name": "NORTE DE SANTANDER",
+    "lat": 7.89,
+    "lon": -72.5
+  },
+  "63": {
+    "name": "QUINDÍO",
+    "lat": 4.53,
+    "lon": -75.68
+  },
+  "66": {
+    "name": "RISARALDA",
+    "lat": 4.81,
+    "lon": -75.69
+  },
+  "68": {
+    "name": "SANTANDER",
+    "lat": 7.12,
+    "lon": -73.12
+  },
+  "70": {
+    "name": "SUCRE",
+    "lat": 9.3,
+    "lon": -75.4
+  },
+  "73": {
+    "name": "TOLIMA",
+    "lat": 4.44,
+    "lon": -75.2
+  },
+  "76": {
+    "name": "VALLE DEL CAUCA",
+    "lat": 3.42,
+    "lon": -76.52
+  },
+  "81": {
+    "name": "ARAUCA",
+    "lat": 7.09,
+    "lon": -70.76
+  },
+  "85": {
+    "name": "CASANARE",
+    "lat": 5.35,
+    "lon": -72.4
+  },
+  "86": {
+    "name": "PUTUMAYO",
+    "lat": 1.15,
+    "lon": -76.65
+  },
+  "88": {
+    "name": "ARCHIPIÉLAGO DE SAN ANDRÉS, PROVIDENCIA Y SANTA CATALINA",
+    "lat": 12.58,
+    "lon": -81.7
+  },
+  "91": {
+    "name": "AMAZONAS",
+    "lat": -4.22,
+    "lon": -69.94
+  },
+  "94": {
+    "name": "GUAINÍA",
+    "lat": 3.87,
+    "lon": -67.92
+  },
+  "95": {
+    "name": "GUAVIARE",
+    "lat": 2.57,
+    "lon": -72.64
+  },
+  "97": {
+    "name": "VAUPÉS",
+    "lat": 1.25,
+    "lon": -70.23
+  },
+  "99": {
+    "name": "VICHADA",
+    "lat": 6.19,
+    "lon": -67.48
+  }
+}
